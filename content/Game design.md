@@ -11,7 +11,7 @@ tags = ["Wikipedia"]
 toc = true
 +++
 
-Le game design — en français la conception de jeux — est le processus de création et de mise au point des règles et autres éléments constitutifs d'un jeu. L'expression, qui s'applique à tout type de jeu, dont les jeux de société et les jeux de cartes, a connu un regain d'intérêt à la suite de l'apparition et de la popularisation des jeux vidéo. 
+Le Game Design — en français la conception de jeux — est le processus de création et de mise au point des règles et autres éléments constitutifs d'un jeu. L'expression, qui s'applique à tout type de jeu, dont les jeux de société et les jeux de cartes, a connu un regain d'intérêt à la suite de l'apparition et de la popularisation des jeux vidéo. 
 
 
 <aside>
