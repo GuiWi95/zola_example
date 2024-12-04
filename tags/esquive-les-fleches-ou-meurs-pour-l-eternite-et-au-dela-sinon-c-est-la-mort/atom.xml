@@ -56,7 +56,8 @@
         <link rel="alternate" type="text/html" href="https://GuiWi95.github.io/zola_example/mortellerandonnee/"/>
         <id>https://GuiWi95.github.io/zola_example/mortellerandonnee/</id>
         
-        <content type="html" xml:base="https://GuiWi95.github.io/zola_example/mortellerandonnee/"></content>
+        <content type="html" xml:base="https://GuiWi95.github.io/zola_example/mortellerandonnee/">&lt;p&gt;Toto&lt;&#x2F;p&gt;
+</content>
         
     </entry>
 </feed>
