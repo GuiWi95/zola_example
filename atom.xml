@@ -5,8 +5,41 @@
     <link rel="self" type="application/atom+xml" href="https://GuiWi95.github.io/zola_example/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://GuiWi95.github.io/zola_example/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-11-27T00:00:00+00:00</updated>
+    <updated>2024-12-04T00:00:00+00:00</updated>
     <id>https://GuiWi95.github.io/zola_example/atom.xml</id>
+    <entry xml:lang="en">
+        <title>2ème tentative de création de page</title>
+        <published>2024-12-04T00:00:00+00:00</published>
+        <updated>2024-12-04T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://GuiWi95.github.io/zola_example/2e-tentative/"/>
+        <id>https://GuiWi95.github.io/zola_example/2e-tentative/</id>
+        
+        <content type="html" xml:base="https://GuiWi95.github.io/zola_example/2e-tentative/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;Logo de SIBILS&quot; title=&quot;Logo de SIBILS&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;+++&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Case A&lt;&#x2F;th&gt;&lt;th&gt;Case B&lt;&#x2F;th&gt;&lt;th&gt;Case C&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Ligne 1, colonne 1&lt;&#x2F;td&gt;&lt;td&gt;Ligne 1, colonne 2&lt;&#x2F;td&gt;&lt;td&gt;Ligne 1, colonne 3&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Ligne 2, colonne 1&lt;&#x2F;td&gt;&lt;td&gt;Ligne 2, colonne 2&lt;&#x2F;td&gt;&lt;td&gt;Ligne 2, colonne 3&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Ligne 3, colonne 1&lt;&#x2F;td&gt;&lt;td&gt;Ligne 3, colonne 2&lt;&#x2F;td&gt;&lt;td&gt;Ligne 3, colonne 3&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;+++&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Si vous voulez accéder à de l&#x27;information en rapport à la biodiversité, visitez le site de &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;&quot;&gt;&lt;em&gt;Biodiversity&lt;&#x2F;em&gt; &lt;strong&gt;PMC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;.&lt;&#x2F;p&gt;
+&lt;hr&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;mes références sont que je les ai créé de toutes pièces, alors faite moi confiance. &lt;a href=&quot;#fr-1-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>L&#x27;âge d&#x27;or du Metroidvania</title>
         <published>2024-11-27T00:00:00+00:00</published>
