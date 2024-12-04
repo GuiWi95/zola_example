@@ -82,7 +82,7 @@
         <link rel="alternate" type="text/html" href="https://GuiWi95.github.io/zola_example/game-design/"/>
         <id>https://GuiWi95.github.io/zola_example/game-design/</id>
         
-        <content type="html" xml:base="https://GuiWi95.github.io/zola_example/game-design/">&lt;p&gt;Le game design — en français la conception de jeux — est le processus de création et de mise au point des règles et autres éléments constitutifs d&#x27;un jeu. L&#x27;expression, qui s&#x27;applique à tout type de jeu, dont les jeux de société et les jeux de cartes, a connu un regain d&#x27;intérêt à la suite de l&#x27;apparition et de la popularisation des jeux vidéo.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://GuiWi95.github.io/zola_example/game-design/">&lt;p&gt;Le Game Design — en français la conception de jeux — est le processus de création et de mise au point des règles et autres éléments constitutifs d&#x27;un jeu. L&#x27;expression, qui s&#x27;applique à tout type de jeu, dont les jeux de société et les jeux de cartes, a connu un regain d&#x27;intérêt à la suite de l&#x27;apparition et de la popularisation des jeux vidéo.&lt;&#x2F;p&gt;
 &lt;aside&gt;
 &lt;&#x2F;aside&gt;
 &lt;h2 id=&quot;historique&quot;&gt;Historique&lt;&#x2F;h2&gt;
@@ -255,6 +255,39 @@
 &lt;blockquote&gt;
 &lt;p&gt;&quot;Je vais devoir utiliser cette échelle si je veux monter&quot;. Merci, cher avatar, je n&#x27;y avais pas pensé. Depuis quelques années, certains Blockbusters poussent les aides de façon légèrement agaçante. Mais alors pourquoi ? Dans ce nouveau GND, on cherche les raisons qui poussent les designers à nous tenir la main parfois un peu trop fermement.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Mortelle Randonnée</title>
+        <published>2022-07-22T00:00:00+00:00</published>
+        <updated>2022-07-22T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://GuiWi95.github.io/zola_example/exercice-041224/"/>
+        <id>https://GuiWi95.github.io/zola_example/exercice-041224/</id>
+        
+        <content type="html" xml:base="https://GuiWi95.github.io/zola_example/exercice-041224/">&lt;p&gt;title = &quot;Exercice de création de page, cours du 4 décembre 2024.&quot;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;Logo de SIBILS&quot; title=&quot;Logo de SIBILS&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Case A&lt;&#x2F;th&gt;&lt;th&gt;Case B&lt;&#x2F;th&gt;&lt;th&gt;Case C&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Ligne 1, colonne 1&lt;&#x2F;td&gt;&lt;td&gt;Ligne 1, colonne 2&lt;&#x2F;td&gt;&lt;td&gt;Ligne 1, colonne 3&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Ligne 2, colonne 1&lt;&#x2F;td&gt;&lt;td&gt;Ligne 2, colonne 2&lt;&#x2F;td&gt;&lt;td&gt;Ligne 2, colonne 3&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Ligne 3, colonne 1&lt;&#x2F;td&gt;&lt;td&gt;Ligne 3, colonne 2&lt;&#x2F;td&gt;&lt;td&gt;Ligne 3, colonne 3&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Si vous voulez accéder à de l&#x27;information en rapport à la biodiversité, visitez le site de &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;&quot;&gt;&lt;em&gt;Biodiversity&lt;&#x2F;em&gt; &lt;strong&gt;PMC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;.
++++&lt;&#x2F;p&gt;
+&lt;hr&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;mes références sont que je les ai créé de toutes pièces, alors faite moi confiance. &lt;a href=&quot;#fr-1-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
 </content>
         
     </entry>
